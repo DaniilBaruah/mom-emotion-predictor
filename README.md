@@ -1,47 +1,47 @@
-# 🌸 Mom Emotion Predictor
+🌸 Mom Emotion Predictor
 
-Проект предсказывает настроение мамы на основе данных с помощью модели машинного обучения.  
-Настроения классифицируются в три состояния: **довольна**, **нейтральна**, **недовольна**.
+This project predicts a mom's mood based on data using a machine learning model.
+Moods are classified into three states: happy, neutral, unhappy.
 
----
+📂 Repository Contents
 
-## 📂 Содержимое репозитория
+mother_model.ipynb — Jupyter Notebook with the model implementation and data analysis.
 
-- `mother_model.ipynb` — Jupyter Notebook с реализацией модели и анализом данных.  
-- `mothers_pleasure.csv` — база данных для обучения модели.  
-- `requirements.txt` — список зависимостей Python для запуска проекта.  
-- `README.md` — документация (этот файл).
+mothers_pleasure.csv — dataset for training the model.
 
----
+requirements.txt — list of Python dependencies required to run the project.
 
-## ⚡ Используемые технологии
+README.md — documentation (this file).
 
-- Python 3.x  
-- Pandas 🐼  
-- Matplotlib 📊  
-- Seaborn 📈  
-- scikit-learn 🤖  
-- Joblib 💾  
+⚡ Technologies Used
 
----
+Python 3.x
 
-## 🚀 Как использовать
+Pandas 🐼
 
-1. **Клонируйте репозиторий:**
+Matplotlib 📊
 
-```bash
+Seaborn 📈
+
+scikit-learn 🤖
+
+Joblib 💾
+
+🚀 How to Use
+
+1. Clone the repository:
+
 git clone https://github.com/DaniilBaruah/mom-emotion-predictor.git
 
 
-2. **Установите зависимости:**
+2. Install the dependencies:
 
-```bash
 pip install -r requirements.txt
 
-3. **Откройте Jupyter Notebook:**
 
-```bash
+3. Open the Jupyter Notebook:
+
 jupyter notebook mother_model.ipynb
 
 
-4. Запустите все ячейки ноутбука, чтобы обучить модель и предсказать настроение мамы.
+4. Run all notebook cells to train the model and predict mom’s mood.
