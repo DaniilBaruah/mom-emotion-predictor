@@ -1,4 +1,4 @@
-тип_ребенка,гендер,вынес_мусор,подмел,пропылесосил,помыл_посуду,сделал_уроки,настроение_мамы
+child_type,gender,took_out_trash,swept,vacuumed,washed_dishes,did_homework,mother_mood
 older,son,yes,no,no,no,no,neutral
 middle,son,yes,yes,no,no,no,unhappy
 younger,son,no,half,no,no,no,happy
